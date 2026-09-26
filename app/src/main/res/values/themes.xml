@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">मोबाइल सिक्योरिटी शील्ड</string>
+    <string name="dashboard">डॅशबोर्ड</string>
+    <string name="scan">स्कॅन</string>
+    <string name="licenses">प्लान</string>
+    <string name="settings">सेटिंग्ज</string>
+    <string name="device_protected">डिव्हाइस सुरक्षित</string>
+    <string name="ai_security_suite">एआय सुरक्षा सुइट</string>
+    <string name="safe_status">सुरक्षित</string>
+    <string name="detected_threats">धोके</string>
+    <string name="devices_secure">डिव्हाइस</string>
+    <string name="active_risks">सक्रिय धोके</string>
+    <string name="scan_title">सुरक्षा स्कॅन</string>
+    <string name="scan_description">एआय आणि अॅप सुरक्षा तपासणी</string>
+    <string name="scan_status">तयार</string>
+    <string name="scan_apps">अॅप्स स्कॅन करा</string>
+    <string name="scan_network">नेटवर्क तपासा</string>
+    <string name="ai_threat_review">एआय धोका पुनरावलोकन</string>
+    <string name="ai_summary">लोकल जोखीम इंजिन आणि Groq आधारित धोका मॉडेल सक्रिय आहे.</string>
+    <string name="select_plan">तुमचा संरक्षण प्लान निवडा</string>
+    <string name="activate_plan">सक्रिय करा</string>
+    <string name="account_security">खाते आणि सुरक्षा</string>
+    <string name="username">वापरकर्ता नाव</string>
+    <string name="password">पासवर्ड</string>
+    <string name="groq_api_key">Groq API कळ</string>
+    <string name="sarvam_api_key">Sarvam API कळ</string>
+    <string name="language">भाषा</string>
+    <string name="voice_commands">व्हॉइस कमांड</string>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MobileSecurity Shield</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="scan">Scan</string>
+    <string name="licenses">Plans</string>
+    <string name="settings">Settings</string>
+    <string name="device_protected">Device protected</string>
+    <string name="ai_security_suite">AI security suite</string>
+    <string name="safe_status">Safe</string>
+    <string name="detected_threats">Threats</string>
+    <string name="devices_secure">Devices</string>
+    <string name="active_risks">Active risks</string>
+    <string name="scan_title">Security scan</string>
+    <string name="scan_description">AI and app protection checks</string>
+    <string name="scan_status">Ready</string>
+    <string name="scan_apps">Scan apps</string>
+    <string name="scan_network">Check network</string>
+    <string name="ai_threat_review">AI threat review</string>
+    <string name="ai_summary">Local risk engine and Groq-based threat model review are active.</string>
+    <string name="select_plan">Choose your protection plan</string>
+    <string name="activate_plan">Activate</string>
+    <string name="account_security">Account and security</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="groq_api_key">Groq API Key</string>
+    <string name="sarvam_api_key">Sarvam API Key</string>
+    <string name="language">Language</string>
+    <string name="voice_commands">Voice commands</string>
+</resources>
